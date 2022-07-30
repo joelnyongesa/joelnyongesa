@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @joelnyongesa
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 
 - 💞️ I’m looking to collaborate on any data science projects using python.
-- 📫 How to reach me Phone number +254705669144. Email address joelnyongesa148@gmail.com
+- 📫 Email address joelnyongesa148@gmail.com
 
 <!---
 joelnyongesa/joelnyongesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
