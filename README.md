@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joelnyongesa
 - 👀 I’m interested in Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on any data science projects using python.
 - 📫 Email address joelnyongesa148@gmail.com
 
 <!---
