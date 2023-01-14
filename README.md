@@ -1,6 +1,21 @@
-- 👋 Hi, I’m @joelnyongesa
-- 👀 I’m interested in Machine Learning and Data Science
-- 📫 Email address joelnyongesa148@gmail.com
+# Joel Nyongesa
+
+## Data Analyst
+
+I am a data analyst with experience in using various tools such as spreadsheets, SQL, Tableau, R, and Python. I am passionate about using data to drive business decisions and improve organizational performance.
+
+## Skills
+
+- Spreadsheets (Google Sheets, Microsoft Excel)
+- SQL
+- Tableau
+- R
+- Python
+
+## Contact
+
+You can contact me via my [LinkedIn](https://www.linkedin.com/in/jknyongesa) or [GitHub](https://github.com/joelnyongesa) profiles.
+
 
 <!---
 joelnyongesa/joelnyongesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
