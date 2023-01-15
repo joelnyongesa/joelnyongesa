@@ -16,6 +16,8 @@ I am a data analyst with experience in using various tools such as spreadsheets,
 
 You can contact me via my [LinkedIn](https://www.linkedin.com/in/jknyongesa) or [GitHub](https://github.com/joelnyongesa) profiles.
 
+![Joel Nyongesa](https://github.com/users/joelnyongesaE/contributions)
+
 
 <!---
 joelnyongesa/joelnyongesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
