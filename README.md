@@ -3,7 +3,7 @@
 
 ## Software Dev |Data Analyst
 
-I'm a versatile professional with a passion for both software development and data analysis. Currently enrolled in Moringa School's software engineering program, I'm dedicated to mastering the craft of coding and creating seamless digital experiences. Additionally, I have a strong background in data analysis, allowing me to extract insights and tell stories from complex datasets.
+A versatile professional with a passion for both software development and data analysis. Enrolled in Moringa School's Full stack software engineering program, Dedicated to mastering the craft of coding and creating seamless digital experiences. Have a strong background in data analysis, allowing me to extract insights and tell stories from complex datasets.
 
 ## My Skills
 
