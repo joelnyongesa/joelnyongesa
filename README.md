@@ -1,17 +1,21 @@
 # Joel Nyongesa
 [![wakatime](https://wakatime.com/badge/user/0c70c189-eba1-4e0f-bb41-30b0cabe8d29.svg)](https://wakatime.com/@0c70c189-eba1-4e0f-bb41-30b0cabe8d29)
 
-## Data Analyst
+## Software Dev |Data Analyst
 
-I am a data analyst with experience in using various tools such as spreadsheets, SQL, Tableau, R, and Python. I am passionate about using data to drive business decisions and improve organizational performance.
+I'm a versatile professional with a passion for both software development and data analysis. Currently enrolled in Moringa School's software engineering program, I'm dedicated to mastering the craft of coding and creating seamless digital experiences. Additionally, I have a strong background in data analysis, allowing me to extract insights and tell stories from complex datasets.
 
-## Skills
+## My Skills
 
-- Spreadsheets (Google Sheets, Microsoft Excel)
-- SQL
-- Tableau
-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Software Development
+
+- **Languages:** HTML, CSS, Vanilla JavaScript
+- **Framework:** React
+
+### Data Analysis
+
+- **Languages:** Python, R
+- **Tools:** Spreadsheets, Tableau, PowerBI
 
 ## Contact
 
