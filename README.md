@@ -1,21 +1,16 @@
 # Joel Nyongesa
 [![wakatime](https://wakatime.com/badge/user/0c70c189-eba1-4e0f-bb41-30b0cabe8d29.svg)](https://wakatime.com/@0c70c189-eba1-4e0f-bb41-30b0cabe8d29)
 
-## Software Dev | Data Analyst
+## Software Dev 
 
-A versatile professional with a passion for both software development and data analysis. Enrolled in Moringa School's Full stack software engineering program, Dedicated to mastering the craft of coding and creating seamless digital experiences. Have a strong background in data analysis, allowing me to extract insights and tell stories from complex datasets.
+Just a full stack developer with an eye in utilizing my skills to design software that solves real world problems
 
 ## My Skills
 
-### Software Development
+* JavaScript, React, Redux.
+* Python, Flask
 
-- **Languages:** HTML, CSS, Vanilla JavaScript
-- **Framework:** React
 
-### Data Analysis
-
-- **Languages:** Python, R
-- **Tools:** Spreadsheets, Tableau, PowerBI
 
 ## Contact
 
