@@ -1,5 +1,10 @@
 [![wakatime](https://wakatime.com/badge/user/0c70c189-eba1-4e0f-bb41-30b0cabe8d29.svg)](https://wakatime.com/@0c70c189-eba1-4e0f-bb41-30b0cabe8d29)
 
+<img 
+  src='Code.png'
+  alt='Code Oath'
+  />
+
 # 👋 Hello, I am Joel Nyongesa
 
 I am a software developer with passion for full stack web development. I am currently working with Flask and React to create seamless and fully fledged web applications that solve real world problems. ALways eager to learn and contribute equally in team settings.
