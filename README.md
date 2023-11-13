@@ -3,6 +3,7 @@
 <img 
   src='Code.png'
   alt='Code Oath'
+  loading='lazy'
   />
 
 # 👋 Hello, I am Joel Nyongesa
