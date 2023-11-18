@@ -34,7 +34,7 @@ I am a software developer with passion for full stack web development. I am curr
 
 ## 🖋️ Currently learning
 
-* **Authorization and authentication** - Using React and Flask.
+* **Using Containers** - Docker
 * **Test Driven Development**
 
 ## Let's connect
