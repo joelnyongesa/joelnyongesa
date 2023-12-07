@@ -8,7 +8,7 @@
 
 # 👋 Hello, I am Joel Nyongesa
 
-I am a software developer with passion for full stack web development. I am currently working with Flask and React to create seamless and fully fledged web applications that solve real world problems. ALways eager to learn and contribute equally in team settings.
+I am a software developer with passion for full stack web development. I am currently working with Flask and React to create seamless and fully fledged web applications that solve real world problems. Always eager to learn and contribute equally in team settings.
 
 ## 😆 Fun facts
 
