@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=joelnyongesa&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/0c70c189-eba1-4e0f-bb41-30b0cabe8d29.svg)](https://wakatime.com/@0c70c189-eba1-4e0f-bb41-30b0cabe8d29)
+
+![](https://komarev.com/ghpvc/?username=joelnyongesa&style=plastic&color=yellowgreen)
 
 <img 
   src='Code.png'
@@ -17,7 +18,7 @@ I am a full stack software developer with passion for full stack web development
 
 * 🍖 I have a soft spot for good food.
 
-* ✍️ I love writing blogs whenever I find some free time. Check out my [Medium blogs](https://medium.com/@joelnyongesa148)
+* ✍️ I love writing blogs whenever I find some free time. Check out my blogs: [Hashnode](https://hashnode.com/@joelnyongesa) or [Medium](https://medium.com/@joelnyongesa148)
 
 * 📚 I love reading about history, and if I am not writing code or blogs, I am probably watching documentaries about our history.
 
