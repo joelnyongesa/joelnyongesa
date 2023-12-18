@@ -8,11 +8,11 @@
   loading='lazy'
   />
 
-# 👋 Hello, I am Joel Nyongesa
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Hello, I am Joel Nyongesa
 
 I am a full stack software developer with passion for full stack web development. Proficient in Flask and React to create seamless and fully fledged web applications that solve real world problems. Always eager to learn and contribute equally in team settings.
 
-## 😆 Fun facts
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f606/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f606/512.gif" alt="😆" width="32" height="32"></picture> Fun facts
 
 * 💻 My first programming language was C.
 
@@ -25,7 +25,7 @@ I am a full stack software developer with passion for full stack web development
 *As **Konrad Adenauer** says:*
 > *"History is the sum total of things that could have been avoided."*
 
-## 🪓 My Current Tech Stack
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> My Current Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,12 +44,12 @@ I am a full stack software developer with passion for full stack web development
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🖋️ Currently learning
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture> Currently learning
 
 * **Using Containers** - Docker
 * RESTful APIs using Django
 
-## Let's connect
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> Let's connect
 
 Feel free to connect with me on my socials, where I share lots of content regarding Software Development and web technologies
 
