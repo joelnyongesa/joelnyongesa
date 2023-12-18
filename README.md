@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=joelnyongesa&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/0c70c189-eba1-4e0f-bb41-30b0cabe8d29.svg)](https://wakatime.com/@0c70c189-eba1-4e0f-bb41-30b0cabe8d29)
 
 <img 
