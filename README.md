@@ -48,7 +48,7 @@ I am a full stack software developer with passion for full stack web development
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture> Currently learning
 
-* Building APIs using Express and MongoDB
+* Building APIs using Express and MongoDB.
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture> Let's connect
 
