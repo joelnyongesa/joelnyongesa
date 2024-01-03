@@ -3,7 +3,7 @@
 
 <img 
   src='Code.png'
-  alt='Code Oath- Before anything, code!'
+  alt='Code Oath - Before anything, code!'
   loading='lazy'
   />
 
